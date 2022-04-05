@@ -1,7 +1,7 @@
 ### Oiii, eu sou a Maria!! 🥰
 
-- 🔭 Hoje estou aprendendo a programar
-- 🌱 Estudando HTML5, CSS3, JavaScript e Python
+- 🔭 Hoje estou aprendendo a programar!!
+- 🌱 Desenvolvedora JavaScript/Python/C-C++/HTML/CSS
 
 ##
 
